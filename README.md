@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Final Year Project
 - 🤔 I’m looking for help with CliNora App
 - 💬 Ask me about AI,IOT,Python,C++
-- 📫 How to reach me: huzaifanalkheda@gmail.com
+- 📫 How to reach me: huzaifanalkhedaemp@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Huzaifa525)
 
