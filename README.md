@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Railworld Pvt Ltd
-- 🌱 I’m a Software Engineer
-- 🤔 I’m looking for help with PHMS app
-- 💬 Ask me about Full Stack Development
+- 🔭 I’m currently working in CleverFLow UAE
+- 🌱 I’m a Product Engineer and in AI R&D
+- 💬 Ask me about AI
 - 📫 How to reach me: huzaifanalkhedaemp@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Huzaifa525)
