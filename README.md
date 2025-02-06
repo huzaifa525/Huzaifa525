@@ -6,5 +6,7 @@
 - 📫 How to reach me: huzaifanalkhedaemp@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Huzaifa525)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa525&layout=compact)](https://github.com/huzaifa525)
+
 
 
