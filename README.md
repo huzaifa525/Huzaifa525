@@ -5,8 +5,9 @@
 - 💬 Ask me about AI
 - 📫 How to reach me: huzaifanalkhedaemp@gmail.com
 
-<img src="https://myreadme.vercel.app/api/embed/huzaifa525?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa525&layout=compact)](https://github.com/huzaifa525)
 
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-
+<a href="https://www.linkedin.com/in/huzefanalkheda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/imhuzaifan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
