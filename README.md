@@ -89,12 +89,19 @@ DevOps       Docker · GitHub Actions · CI/CD · AWS S3 · Vercel
 ### Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa525&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa525&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=huzaifa525&theme=default&hide_border=true" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa525&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huzaifa525&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/huzaifa525?style=flat-square" />
+  <img src="https://img.shields.io/badge/PRs-124+-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-83-green?style=flat-square" />
 </p>
 
 ---
